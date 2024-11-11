@@ -7,7 +7,7 @@ Bu projede HWS table view kullanarak ülkelerin isimlerini çekip listelemeyi, i
 * Activity View Controller kullanarak bayrak gönderme
 * Table View kullanarak ülkeleri listeleme
 * File Manager kullanarak resimleri çekme 
-* Sayfalar arası geçiş ve veri taşıma 
+* Sayfalar arası geçiş ve veri taşıma.
 
 ### Uygulamanın Örnek Resimleri
 
